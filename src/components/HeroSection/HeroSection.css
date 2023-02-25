@@ -1,0 +1,27 @@
+.cstmHero{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+
+.cstmCard{
+    box-shadow: -5px 5px 25px 2px #6b6b6b;
+  }
+
+  .supp{
+    background-image: linear-gradient(to left, white 63% , rgb(0, 200, 255) 37%);
+    /* background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover; */
+  }
+
+  .supp1{
+    background-image: linear-gradient(to top, rgb(0, 200, 255) 70% , white 30%);
+  }
+
+  .prabg-c{
+    background-image: url('../../../public/images/prajaybackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

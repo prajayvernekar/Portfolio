@@ -1,0 +1,15 @@
+.CstmNavBtn{  
+    padding: 10px;
+    border: 1px solid; 
+    border-color: rgb(23, 29, 37);
+}
+  
+.CstmNavBtn:hover{
+    background-color: rgb(17 24 39);
+    /* border: 1px dashed; */
+    border: 1px solid ;
+    border-radius: 5px;
+    padding: 10px;
+    /* color: white;
+    background-color: rgb(0, 183, 255); */
+}
